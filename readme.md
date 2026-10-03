@@ -49,7 +49,7 @@ To set up the environment and install dependencies, follow these steps:
 
 An end-to-end Machine Learning engineering solution built for the Spotter Freight Rate Prediction Challenge. This project predicts spot freight rates for 12,000 unseen validation loads (`validation_predictions.csv`) and 31 fixed daily loads for December 2025 (`december_chart_inputs.csv`).
 
-## 📊 Performance Highlights
+## Performance Highlights
 
 - **Overall Out-Of-Fold MAE:** `$118.67` (Reduced from initial $444.24 baseline -> **73.3% improvement**)
 - **Overall Out-Of-Fold RMSE:** `$547.82` (Reduced from initial $1,071.21 -> **50% improvement**)
@@ -57,7 +57,7 @@ An end-to-end Machine Learning engineering solution built for the Spotter Freigh
 
 ---
 
-## 🏗️ Repository Architecture
+## Repository Architecture
 
 ```text
 freight-rate-prediction/
@@ -128,4 +128,3 @@ The generated prediction chart for the fixed route (**Lexington to Fort Wayne | 
 
 ![December Trend Chart](scorer_results/candidate_december.png)
 ```
-
