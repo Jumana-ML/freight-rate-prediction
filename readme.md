@@ -124,7 +124,7 @@ Running `main.py` will automatically trigger `score.py` and produce:
 
 ## December 2025 Trend Chart Analysis
 
-The generated prediction chart for the fixed route (**Lexington to Fort Wayne | 360 miles | Dry Van | 32,000 lbs**) calibrates to a realistic market average of **~$870 (~$2.41/mile)**. It accurately captures weekly demand dips alongside late-December holiday rate surges.
+The generated prediction chart for the fixed route (**Lexington to Fort Wayne | 360 miles | Dry Van | 32,000 lbs**) calibrates to a realistic market average of **$870 ($2.41/mile)**. It accurately captures weekly demand dips alongside late-December holiday rate surges.
 
 ![December Trend Chart](scorer_results/candidate_december.png)
 ```
