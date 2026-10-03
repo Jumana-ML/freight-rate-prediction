@@ -23,3 +23,13 @@ The scorer validates both files and creates `scorer_results/candidate_december.p
 - `validation_predictions.csv`
 - PDF or DOCX report containing your validation, data split approach and `candidate_december.png`
 - 2-3 minute Loom link
+
+## Setup and Installation
+
+To set up the environment and install dependencies, follow these steps:
+
+1. **Make the setup script executable:**
+   ```bash
+   chmod +x setup.sh
+   bash setup.sh
+   source .venv/Scripts/activate
